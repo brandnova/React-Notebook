@@ -1,0 +1,38 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+
+.quill-dark .ql-toolbar {
+  border-color: #4a5568;
+}
+
+.quill-dark .ql-container {
+  border-color: #4a5568;
+}
+
+.quill-dark .ql-editor {
+  color: white;
+}
+
+.quill-dark .ql-picker {
+  color: white;
+}
+
+.quill-dark .ql-stroke {
+  stroke: white;
+}
+
+.quill-dark .ql-fill {
+  fill: white;
+}
+
+.quill-dark .ql-picker-options {
+  background-color: #2d3748;
+}
+
+.quill-dark .ql-tooltip {
+  background-color: #2d3748;
+  color: white;
+} */

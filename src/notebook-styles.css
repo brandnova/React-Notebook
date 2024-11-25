@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+
+.font-handwritten {
+  font-family: 'Caveat', cursive;
+}
+
+.bg-brown-paper {
+  background-image: url('/brown-paper-texture.jpg');
+  background-repeat: repeat;
+}
